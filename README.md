@@ -4,3 +4,6 @@ cd /home/aportal/Proyecto-La-Cancha-2026/la-cancha-node
 
 \\wsl.localhost\Ubuntu\home\aportal --> otra ruta pero no la utilizo tanto
 pwd --> ver donde estamos ubicados en la terminal
+
+Para entrar a base de datos sqlite3
+aportal@MarceloPR:/mnt/c/Users/porta/OneDrive/BDLaCancha2026
