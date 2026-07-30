@@ -7,3 +7,5 @@ pwd --> ver donde estamos ubicados en la terminal
 
 Para entrar a base de datos sqlite3
 aportal@MarceloPR:/mnt/c/Users/porta/OneDrive/BDLaCancha2026
+
+mañana revisar BD fue copiado al escritorio
