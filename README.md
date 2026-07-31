@@ -39,3 +39,34 @@ return {
     },
   },
 }
+
+ONEDARK:
+return {
+  {
+    "navarasu/onedark.nvim",
+    lazy = false,
+    priority = 1000,
+    opts = {
+      style = "darker", -- Opciones: 'dark', 'darker', 'cool', 'deep', 'warm', 'warmer'
+      transparent = false,
+      term_colors = true,
+      ending_tildes = false,
+      code_style = {
+        comments = "italic",
+        keywords = "none",
+        functions = "bold",
+        strings = "none",
+        variables = "none",
+      },
+    },
+  },
+  {
+    "LazyVim/LazyVim",
+    opts = {
+      colorscheme = "onedark",
+    },
+  },
+}
+
+GRUVBLOX:
+
