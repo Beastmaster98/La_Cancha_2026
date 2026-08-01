@@ -2,6 +2,9 @@
 RUTA DENTRO DE UBUNTU/LUNIS WSL
 cd /home/aportal/Proyecto-La-Cancha-2026/la-cancha-node
 
+CLOUDINARY TEAM ----> FOTOS
+
+
 \\wsl.localhost\Ubuntu\home\aportal --> otra ruta pero no la utilizo tanto
 pwd --> ver donde estamos ubicados en la terminal
 
