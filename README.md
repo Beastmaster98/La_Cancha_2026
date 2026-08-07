@@ -86,4 +86,18 @@ al final este comando:
 
   git push -u origin main (colocar la contraseña del repositorio)
   
+***Cada vez que avances bastante en tu código con Neovim u OpenCode y quieras actualizar tu GitHub, solo tendrás que ejecutar estos tres comandos rápidos en tu terminal:
 
+Guardar y preparar los cambios nuevos:
+
+Bash
+git add .
+Crear un "paquete" con un mensaje que describa lo que hiciste:
+
+Bash
+git commit -m "descripcion de lo que avance"
+Subirlo a la nube de GitHub:
+
+Bash
+git push
+Haciendo esos tres pasos cada vez que termines una función o una parte importante, tu repositorio se mantendrá actualizado y seguro.
