@@ -84,3 +84,6 @@ Luego:
 al final este comando:
   opencode
 
+  git push -u origin main (colocar la contraseña del repositorio)
+  
+
