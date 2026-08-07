@@ -73,3 +73,14 @@ return {
 
 GRUVBLOX:
 
+
+
+
+
+Descargar opencode:
+  curl -fsSL https://opencode.ai/install | bash
+Luego:
+  brew install anomalyco/tap/opencode
+al final este comando:
+  opencode
+
